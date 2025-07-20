@@ -32,11 +32,14 @@ main:
   - title: "IP Rights"
     url: /ipr/
 
-  - title: "Awards"
-    url: /awards/
+  - title: "Community Service"
+    url: /community-service/
   
   - title: "Lectures"
     url: /lecturer/
+
+  - title: "Teaching Materials"
+    url: /material/
     
   # - title: "CV"
   #   url: /cv-json/
