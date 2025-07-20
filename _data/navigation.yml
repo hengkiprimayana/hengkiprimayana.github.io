@@ -35,8 +35,8 @@ main:
   - title: "Community Service"
     url: /community-service/
   
-  - title: "Lecturers"
-    url: /lecturer/
+  - title: "Lectures"
+    url: /lectures/
 
   - title: "Teaching Materials"
     url: /material/
