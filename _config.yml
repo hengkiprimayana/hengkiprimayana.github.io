@@ -22,7 +22,7 @@ repository               : "hengkiprimayana/hengkiprimayana.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hengkipict.png"
+  avatar           : #"hengkipict.png"
   name             : "Kadek Hengki Primayayana"
   pronouns         : # example: "she/her"  
   bio              : "Researcher | Lecturer at Institut Mpu Kuturan | Currently Focuses on Research about Elementary Education | Mendeley Advisor | Figshare Ambassador"
