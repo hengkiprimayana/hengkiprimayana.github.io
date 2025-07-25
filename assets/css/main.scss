@@ -40,3 +40,8 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Untuk menghilangkan avatar di sisi kiri atas */
+.author__avatar {
+  display: none;
+}
