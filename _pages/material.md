@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Teaching Material"
-permalink: /regular/
+permalink: /material/
 author_profile: true
 redirect_from:
-  - /material
+  - /resume
 ---
 
 ### Undergraduate classes
