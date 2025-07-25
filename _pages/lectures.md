@@ -16,3 +16,7 @@ redirect_from:
 * Evaluasi Pembelajaran SD (PGSD2138/ 2 credits)
 * Teknik Penulisan dan Publikasi Karya Ilmiah (PGSD2147/ 2 credits)
 * Metodologi Penelitian (PGSD2152/ 2 credits)
+* Manajemen Berbasis Sekolah (PGSD2143/ 2 credits)
+* Kurikulum dan Pembelajaran SD (PGSD2142/ 2 credits)
+* Perkembangan Peserta Didik (PGSD2140/ 2 credits)
+* Psikologi Pendidikan (PGSD2139/ 2 credits)
