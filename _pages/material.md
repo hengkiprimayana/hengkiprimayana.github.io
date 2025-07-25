@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 ### Mendeley
-<iframe src="https://widgets.figshare.com/articles/16543734/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
+[![Figshare](https://static.figshare.com/static/img/logo/frame.png)](https://widgets.figshare.com/articles/16543734/embed?show_title=1)
