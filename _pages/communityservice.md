@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Community Service"
-permalink: /community-service/
+permalink: /communityservice/
 author_profile: true
 redirect_from:
   - /resume
