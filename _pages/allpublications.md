@@ -9,7 +9,7 @@ redirect_from:
 
 :pushpin: All listed publications are aimed to disseminate research and scholarly technical reports. Apart from any fair dealing for the purposes of research, education, or self-study, all publications may only be reproduced, stored or transmitted online, in any form or by any means, with the prior permission in writing of the author. If you would like to read the PDF file, please drop me an email to: `hengkiprimayana{at}stahnmpukuturan.ac.id`
 
-For more recent and updated list of publications, please visit [my Google Scholar profile](https://scholar.google.com/citations?user=c5w-oRIAAAAJ) [my Scopus page](https://www.scopus.com/authid/detail.uri?authorId=57219776192) and [Sinta national metric](https://sinta.kemdikbud.go.id/authors/profile/6699089)
+For more recent and updated list of publications, please visit [my Google Scholar profile](https://scholar.google.com/citations?user=c5w-oRIAAAAJ) ; [my Scopus page](https://www.scopus.com/authid/detail.uri?authorId=57219776192) and [Sinta national metric](https://sinta.kemdikbud.go.id/authors/profile/6699089)
 
 
 
@@ -24,7 +24,7 @@ Journal articles
 ### Published articles in international journals (indexed by SINTA National Index)
 
 1. Primayana, K. H., & Dewi, P. Y. A. . (2025). The Influence of the PQ4R Learning Method Assisted by Balinese Folk Story Texts on Elementary School Student Reading Comprehension Ability. International Journal of Elementary Education, 9(2), 223–229. [https://doi.org/10.23887/ijee.v9i2.97000](https://doi.org/10.23887/ijee.v9i2.97000)
-2. Dewi, P., & Primayana, K. (2019). Effect of Learning Module with Setting Contextual Teaching and Learning to Increase the Understanding of Concepts. International Journal of Education and Learning, 1(1), 19-26. doi:[https://doi.org/10.31763/ijele.v1i1.26](https://doi.org/10.31763/ijele.v1i1.26)
+2. Dewi, P., & Primayana, K. (2019). Effect of Learning Module with Setting Contextual Teaching and Learning to Increase the Understanding of Concepts. International Journal of Education and Learning, 1(1), 19-26. [https://doi.org/10.31763/ijele.v1i1.26](https://doi.org/10.31763/ijele.v1i1.26)
 
 ### Published collaborative articles
 
