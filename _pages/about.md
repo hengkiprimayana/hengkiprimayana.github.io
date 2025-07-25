@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/hengkiweb2.png" width="150">
+<img src="/images/hengkiweb3.png" width="150">
 
 Researcher | Lecturer <br>
 Institut Agama Hindu Negeri Mpu Kuturan (Bali, Indonesia) <br>
