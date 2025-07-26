@@ -11,16 +11,8 @@ redirect_from:
 
 | No | Journal | Active year | Publisher | Appointed position |
 |----|---------|-------------|-----------|----------------|
-| 1 | ASEAN Engineering Journal (Scopus Indexed) | 2018-2023 | Universiti Teknologi Malaysia (UTM) | *Editor-In-Chief* |
-| 2 | IEEE Journal of Biomedical and Health Informatics (WoS Indexed, Impact Factor: 5.772) | 2016-now | Institute of Electrical and Electronics Engineers (IEEE) | *Reviewer* |
-| 3 | Entertainment Computing (WoS Indexed, Impact Factor: 1.455) | 2018-now | Elsevier | *Reviewer* |
-| 4 | Virtual Reality (WoS Indexed, Impact Factor: 5.095) | 2018-now | Springer | *Reviewer* |
-| 5 | Human-centric Computing and Information Sciences (WoS Indexed, Impact Factor: 3.212) | 2019-now | Springer | *Reviewer* |
-| 6 | Scientific Reports (WoS Indexed, Impact Factor: 4.380) | 2021-now | Nature Research | *Reviewer* |
-| 7 | Transportation Research Interdisciplinary Perspective (Scopus Indexed) | 2021 | Elsevier | *Reviewer* |
-| 8 | PLOS One (WoS Indexed, Impact Factor: 3.24) | 2021-now | PLOS | *Reviewer* |
-| 9 | Frontiers in Integrative Neuroscience (WoS Indexed, Impact Factor: 2.763) | 2022 | Frontiers | *Reviewer* |
-| 10 | IEEE Transactions on Human-Machine Systems (WoS Indexed, Impact Factor: 3.374) | 2022-now | Institute of Electrical and Electronics Engineers (IEEE) | *Reviewer* |
-| 11 | Heliyon (WoS Indexed, Impact Factor: 3.776) | 2022-now | Cell Press | *Reviewer* |
-| 12 | Behavior & Information Technology (WoS Indexed, Impact Factor: 3.320) | 2022-now | Taylor & Francis Online | *Reviewer* |
-| 13 | Displays (WoS Indexed, Impact Factor: 3.4) | 2022-now | Elsevier | *Reviewer* |
+| 1 | Journal of Science and Education (JSE) ISSN : 2745-5351 (SINTA 3) | 2020-now | CV. Media Digital Publikasi Indonesia | [Editor](https://jse.rezkimedia.org/index.php/jse/about/editorialTeam) |
+| 2 | Aulad: Journal on Early Childhood ISSN : 2655-433X (SINTA 3) | 2019-now | Perkumpulan Pengelola Jurnal PAUD Indonesia (PPJPAUD) | [Reviewer](https://aulad.org/aulad/peerReviewers) |
+| 3 | Journal of Education Research ISSN : 2746-0738 (SINTA 4) | 2020-now | Perkumpulan Pengelola Jurnal PAUD Indonesia | [Reviewer](https://jer.or.id/index.php/jer/peerReviewers) |
+| 4 | Pelangi: Journal of Islamic Early Childhood Education ISSN : 2745-6439 (SINTA 6) | 2020-now | IAI Muhammadiyah Bima | *[Editor](https://ejournal.iaimbima.ac.id/index.php/pelangi/about/editorialTeam) |
+
