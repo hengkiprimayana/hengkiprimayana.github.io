@@ -41,6 +41,9 @@ main:
   - title: "Teaching Materials"
     url: /material/
     
+  - title: "SciEd Lab"
+    url: /lab/
+    
   # - title: "CV"
   #   url: /cv-json/
     
