@@ -23,8 +23,10 @@ Journal articles
 
 ### Published articles in international journals (indexed by SINTA National Index)
 
-1. Primayana, K. H., & Dewi, P. Y. A. . (2025). The Influence of the PQ4R Learning Method Assisted by Balinese Folk Story Texts on Elementary School Student Reading Comprehension Ability. International Journal of Elementary Education, 9(2), 223–229. [https://doi.org/10.23887/ijee.v9i2.97000](https://doi.org/10.23887/ijee.v9i2.97000)
-2. Dewi, P., & Primayana, K. (2019). Effect of Learning Module with Setting Contextual Teaching and Learning to Increase the Understanding of Concepts. International Journal of Education and Learning, 1(1), 19-26. [https://doi.org/10.31763/ijele.v1i1.26](https://doi.org/10.31763/ijele.v1i1.26)
+1. Primayana, K. H., & Dewi, P. Y. A. (2026). The Contextual Problem-Based Learning Model Enhances Problem-Solving Abilities and Science Process Skills Among Elementary School Students. Jurnal Pendidikan Indonesia, 15(1), 260-267. [https://doi.org/10.23887/jpi-undiksha.v15i1.111884](https://doi.org/10.23887/jpi-undiksha.v15i1.111884)
+2. Primayana, K. H., & Dewi, P. Y. A. (2026). The Effectiveness of an Interactive Science E-Module Assisted Augmented Reality with a Contextual Teaching and Learning Approach in Enhancing Science Process Skills Among Elementary School Students. Jurnal Ilmiah Sekolah Dasar, 10(1), 104-110. [https://doi.org/10.23887/jisd.v10i1.111377](https://doi.org/10.23887/jisd.v10i1.111377)
+3. Primayana, K. H., & Dewi, P. Y. A. (2025). The Influence of the PQ4R Learning Method Assisted by Balinese Folk Story Texts on Elementary School Student Reading Comprehension Ability. International Journal of Elementary Education, 9(2), 223–229. [https://doi.org/10.23887/ijee.v9i2.97000](https://doi.org/10.23887/ijee.v9i2.97000)
+4. Dewi, P., & Primayana, K. (2019). Effect of Learning Module with Setting Contextual Teaching and Learning to Increase the Understanding of Concepts. International Journal of Education and Learning, 1(1), 19-26. [https://doi.org/10.31763/ijele.v1i1.26](https://doi.org/10.31763/ijele.v1i1.26)
 
 ### Published collaborative articles
 
